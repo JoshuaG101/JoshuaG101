@@ -37,13 +37,4 @@ I specialize in building production-ready backend systems, real-time data infras
 > *Lead Full-Stack Developer* | **TypeScript, Node.js, React Native, PostgreSQL**
 * Built a real-time mobile app backend capable of handling **1,000+ req/sec** with sub-450ms latency.
 * Implemented request tracing and comprehensive error logging to maintain 0 production crashes.
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaG101&show_icons=true&theme=tokyonight&count_private=true" alt="Joshua's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaG101&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
----
