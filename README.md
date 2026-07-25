@@ -1,8 +1,8 @@
 # Hi there, I'm Joshua Gabrie 👋
 
-- **LinkedIn: https://linkedin.com/in/joshua-gabrie
-- **Email: Joshuagabrie@gmail.com
-- **Based in: Miami Florida
+- LinkedIn: https://linkedin.com/in/joshua-gabrie
+- Email: Joshuagabrie@gmail.com
+- Based in: Miami Florida
 
 I'm a **Full-Stack Software Engineer** and **Co-Founder** at [Apex Software](#), pursuing my B.S. in Computer Science (Minor in Product Management) at **Florida International University** (Graduating Dec 2026). 
 
