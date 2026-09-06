@@ -33,7 +33,7 @@ I specialize in building production-ready backend systems, real-time data infras
 
 ### 🏥 **Apex Software** — *Co-Founder & Software Engineer*
 *Feb 2026 – Present | Miami, FL*
-- **Architected** HIPAA-compliant healthcare SaaS platforms using **Svelte** and **Convex**, securing records for **17 clinics** with end-to-end encryption.
+- **Architected** Healthcare SaaS platforms using **Svelte** and **Convex**, securing records for **17 clinics** with end-to-end encryption.
 - **Engineered** real-time synchronization layers that significantly reduced data latency between doctor and patient portals.
 
 ### 📦 **Amazon** — *Software Engineer Intern*
